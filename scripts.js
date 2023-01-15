@@ -1,0 +1,1 @@
+document.body.innerHTML = "<h1>ПРИВЕТ GIT</h1>"
